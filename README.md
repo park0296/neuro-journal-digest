@@ -4,6 +4,8 @@ Weekly digest of 14 neurology / neuroscience journals (PubMed, last 7 days), aut
 
 ## Index
 
+- [2026-10-12](archive/2026-10-12/abstracts.md) — 112 articles
+
 - [2026-10-05](archive/2026-10-05/abstracts.md) — 172 articles
 
 - [2026-09-28](archive/2026-09-28/abstracts.md) — 105 articles
